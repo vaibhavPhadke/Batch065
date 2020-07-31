@@ -1,0 +1,6 @@
+  506  git init
+  510  git config --global user.email "vaibhavphadke08@gmail.com"
+  511  git config --global user.name "vaibhavPhadke"
+  512  git config user.email
+  513  git config user.name
+  514  history | grep git > gitcmd.txt
